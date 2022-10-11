@@ -1,0 +1,40 @@
+section {
+    width: 1000px;
+    height: fit-content;
+    margin: 3rem auto;
+    padding: 1rem 0;
+    background-color: navy;
+    
+
+    /* Your code here: */
+
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+    
+   
+
+
+
+}
+
+div {
+    
+    background-color: brown;
+
+    /* Your code here: */
+    
+
+    
+    border: 0.5px solid white;
+    height: 90%;
+    width: 25%;
+   
+    
+ }
+
+ 
+
+ 
