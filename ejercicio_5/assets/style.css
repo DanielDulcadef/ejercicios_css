@@ -1,0 +1,30 @@
+
+.butt {
+    transition-duration: 0.5s;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    border: solid blueviolet;
+    background-color: blue;  
+}
+
+.butt:hover{
+    background-color: springgreen;
+    color: rgb(240, 16, 16);
+}
+p {
+    visibility: hidden;
+    
+}
+
+.butt:hover + p {
+   visibility: visible ;
+   transition-delay: 1s;
+
+}
+p {
+    position: relative;
+    
+   
+}
+
