@@ -1,0 +1,33 @@
+section {
+    width: 1000px;
+    height: 500px;
+    margin: 3rem auto;
+    background-color: navy;
+
+    /* Your code here: */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20%;
+    align-content: center;
+    justify-content: space-around
+    
+    
+    
+}
+
+div {
+    /* Your code here: */
+    display: flex;
+    background-color: brown;
+    height: 80px;
+    width: 200px ;
+    border: solid 1px white;
+    
+    
+    
+    
+    
+}
+
+
